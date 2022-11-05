@@ -1,0 +1,44 @@
+.title{
+    font-style: helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url(../images/pastel_patern.jpeg);
+    text-align: center;
+
+}
+.brushes{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+.brush-price{
+    color: blue;
+    font-family: helvetica;
+    font-weight: bold;
+}
+.frames{
+    color: white;
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: lightcoral;
+}
+.frame-price{
+    color: blue;
+    font-family: helvetica;
+    font-weight: bold;
+}
+.paint{
+    color: white;
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: skyblue;
+}
+.paint-price{
+    color: blue;
+    font-weight: bold;
+}
